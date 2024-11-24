@@ -21,5 +21,3 @@ if is_leap_year == "yes":
 else:
     print(f"There are {seconds_in_normal_year} seconds in a normal year.")
 
-
-# How many seconds in a year 🙀 !! Day 11 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
